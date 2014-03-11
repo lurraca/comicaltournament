@@ -18,7 +18,7 @@ Purpose
 
 **You:** Why would someone in full posession of his/her mental faculties would waste his/her time on something like this?
 
-*Mostly educational purposes, I been dying to try the MEAN stack for a while so I took my limited brain for spin and this is what I came up with. I know, I know, is not the most brilliant or exciting idea idea but this is what I actually needed a simple project that could done in short time so I don't drift away and start looking for the next thing without even finishing this up.
+*Mostly educational purposes, I been dying to try the MEAN stack for a while so I took my limited brain for spin and this is what I came up with. I know, I know, is not the most brilliant or exciting idea idea but this is what I actually needed a simple project that could done in short time so I don't drift away and start looking for the next thing without even finishing this up.*
 
 **You:** Why you went all sentimental on me? JEEZ!
 
