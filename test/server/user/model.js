@@ -7,16 +7,20 @@ var should = require('should'),
 var user;
 
 describe('User Model', function() {
+
   before(function(done) {
+    // Clear users before testing
+    User.remove().exec();
+    done();
+  });
+
+  beforeEach(function(done) {
     user = new User({
       provider: 'local',
       name: 'Fake User',
       email: 'test@test.com',
       password: 'password'
     });
-
-    // Clear users before testing
-    User.remove().exec();
     done();
   });
 
